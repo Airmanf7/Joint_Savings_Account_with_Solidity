@@ -1,11 +1,15 @@
 # Joint_Savings_Account_with_Solidity_and_Remix
 
-Create a smart contract to function as a joint savings account, deploy on a testnet and interact with its functions
+## Project Goals
 
+- Create a smart contract that functions as a joint savings account.
+- Write functions that allow deposits and withdrawals.
+- Write a function that blocks withdrawals that were not initiated by the account owners.
+- Deploy on a testnet and interact with its functions.
 
 ## Table of Contents
 
-[Joint Savings Account](https://github.com/
+[Project Summary](https://github.com/
 
 [Technologies](https://github.com/
 
@@ -19,9 +23,12 @@ Create a smart contract to function as a joint savings account, deploy on a test
 
 ---
 
-## Joint Savings Account
+## Project Summary
 
-This project is about creating an application to automate the creation of a join savings accounts with the use of Solidity smart contract. This smart contract will use ether management functions to implement a financial institution’s requirements for providing the features of the joint savings account. These features will consist of the ability to deposit and withdraw funds from the account.
+The purpose of this project is to create a smart contract that functions as a joint savings account. The programming language, Solidity, will be used along with REMIX IDE to deploy the contract to a local testnet. The functions will be the following:
+
+`deposit` features will consist of the ability to deposit and withdraw funds from the account.
+`withdrawal`
 
 ---
 
