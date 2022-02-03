@@ -11,7 +11,7 @@ Create a smart contract to function as a joint savings account, deploy on a test
 
 [Installation/ Usage Guide](https://github.com/
 
-[Examples](https://github.com/
+[Examples and Images](https://github.com/
 
 [Contributors](https://github.com/
 
