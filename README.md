@@ -25,33 +25,34 @@
 
 ## Project Summary
 
-The purpose of this project is to create a smart contract that functions as a joint savings account. The programming language, Solidity, will be used along with REMIX IDE to deploy the contract to a local testnet. The functions will be the following:
+The purpose of this project is to create a smart contract that functions as a joint savings account. The programming language, Solidity, will be used along with REMIX IDE to deploy the contract to a local testnet. The primary functions will be the following:
 
-`deposit` features will consist of the ability to deposit and withdraw funds from the account.
-`withdrawal`
+- `deposit` Allows test Ether to be deposited denominated in Wei.
+- `withdraw` Allows test Ether to be withdrawn to one of the two account owners denominated in Wei.
+- `last to withdraw` This is a `call` function which returns the wallet address in the most recent withdraw transaction.
+- `last withdraw amount` This is a `call` function which returns the amount in Wei in the most recent withdraw transaction.
 
 ---
 
 ## Technologies
 
-This project leverages **[python version 3.8.5](https://www.python.org/downloads/)** with the following packages and modules:
+This project uses **[python version 3.8.12](https://www.python.org/downloads/)** with the following packages and modules:
 
-* [pandas](https://pandas.pydata.org/docs/) - *version 1.3.2* - This was used to be able to easily manipulate dataframes and create dataframes.
+* [pandas](https://pandas.pydata.org/docs/) - *version 1.3.4* - This module was used to be able to create and manipulate dataframes.
 
-* [hashlib](https://docs.python.org/3/library/hashlib.html)- This module implements a common interface to many different secure hash and message digest algorithms. In our application, we use SHA256 to return a hexdigest.
+* [hashlib](https://docs.python.org/3/library/hashlib.html)- This module uses a common interface to many different secure hash and message digest algorithms. For this project, we use SHA256 to return a hexdigest.
 
-* [web3.py](https://web3py.readthedocs.io/en/stable/overview.html) - This is a Python library for connecting to and performing operations on Ethereum-based blockchains.
+* [web3.py](https://web3py.readthedocs.io/en/stable/overview.html) - This is a Python library that enables connection to a decentralized online network based on a blockchain.
 
-* [Solidity](https://docs.soliditylang.org/en/v0.8.9/) - This is used to create the smart contract and implement the joints saving application to work with ether.
+* [Solidity](https://docs.soliditylang.org/en/v0.8.9/) - This is a programming language commonly used to create smart contracts which are ultimately deployed to the Ethereum blockchain.
 
-* [Remix IDE](https://remix.ethereum.org/) - This is used to be able to write and edit solidity formatted code, and this is where the joints saving application will be launched.
+* [Remix IDE](https://remix.ethereum.org/) - This is used to be able to write, compile and deploy smart contracts written in the Solidity code.
 
 ---
 ## Installation/ Usage Guide
 
-### 1. Use [REMIX IDE](https://remix.ethereum.org/) to view and edit the `joint_savings.sol` file.
+### 1. Open [REMIX IDE](https://remix.ethereum.org/) to view and edit the `joint_savings.sol` file.
 
-- Make sure to `git clone` the file first from this repository. 
 
 ### 2. Open the REMIX IDE, click on the left icon logo, and then click Open file and navigate to where the git clone files are locally saved on your machine.
 
