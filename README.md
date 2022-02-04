@@ -1,5 +1,7 @@
 # Joint_Savings_Account_with_Solidity_and_Remix
 
+!(./Images
+
 ## Project Goals
 
 - Create a smart contract that functions as a joint savings account.
