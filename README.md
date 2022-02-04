@@ -1,6 +1,6 @@
 # Joint_Savings_Account_with_Solidity_and_Remix
 
-!(./Images
+!(./Images/banner.jpg)
 
 ## Project Goals
 
