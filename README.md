@@ -26,8 +26,6 @@ The purpose of this project is to create a smart contract that functions as a jo
 
 This project uses **[python version 3.8.12](https://www.python.org/downloads/)** with the following packages and modules:
 
-* [pandas](https://pandas.pydata.org/docs/) - *version 1.3.4* - This module was used to be able to create and manipulate dataframes.
-
 * [hashlib](https://docs.python.org/3/library/hashlib.html)- This module uses a common interface to many different secure hash and message digest algorithms. For this project, we use SHA256 to return a hexdigest.
 
 * [web3.py](https://web3py.readthedocs.io/en/stable/overview.html) - This is a Python library that enables connection to a decentralized online network based on a blockchain.
