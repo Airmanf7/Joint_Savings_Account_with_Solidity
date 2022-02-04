@@ -74,7 +74,7 @@ This project uses **[python version 3.8.12](https://www.python.org/downloads/)**
 #### **Withdraw 5 Ether into accountTwo.**
 
 ![](./execution_results/withdraw_to_account_2.jpg)
-![](./execution_results/confirmatiion_withdraw_to_account_2.jpg)
+![](./execution_results/confirmation_withdraw_to_account_2.jpg)
 
 #### **View the current balance, account that was last to withdraw and the amount that was last withdrawn.**
 
