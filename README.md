@@ -39,7 +39,7 @@ This project uses **[python version 3.8.12](https://www.python.org/downloads/)**
 ---
 ## Installation / Usage Guide
 
-### 1. Open [REMIX IDE](https://remix.ethereum.org/), then click on the left icon logo, and then click Open file and navigate to where the git clone files are saved locally on your computer.
+### 1. Use the git clone function to clone this repo. Then open [REMIX IDE](https://remix.ethereum.org/), click on the left icon logo, and then click Open file and navigate to the folder where you saved the cloned repo.
 
 ![Remix IDE Open](./execution_results/open_file.jpg)
 
@@ -55,7 +55,7 @@ This project uses **[python version 3.8.12](https://www.python.org/downloads/)**
 ---
 ## Examples and Images
 
-### **These images show the ressults of each interaction function.** 
+### **These images show the results of each interaction function.** 
 
 #### Set the addresses for accountOne and accountTwo:**
 
