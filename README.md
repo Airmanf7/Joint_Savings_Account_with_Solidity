@@ -1,6 +1,6 @@
 # Joint_Savings_Account_with_Solidity_and_Remix
 
-!(./Images/banner.jpg)
+![](./Images/banner.jpg)
 
 ## Project Goals
 
@@ -42,7 +42,7 @@ This project uses **[python version 3.8.12](https://www.python.org/downloads/)**
 
 ### 1. Open [REMIX IDE](https://remix.ethereum.org/), then click on the left icon logo, and then click Open file and navigate to where the git clone files are saved locally on your computer.
 
-![Remix IDE Open](.
+![Remix IDE Open](./execution_results/open_file.jpg)
 
 ### 3. Compile the `joint_savings.sol` file and make sure that the compiler is version 0.5.0.
 
