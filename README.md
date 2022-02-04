@@ -6,7 +6,7 @@
 
 - Create a smart contract that functions as a joint savings account.
 - Write functions that allow deposits and withdrawals.
-- Write a function that blocks withdrawals that were not initiated by the account owners.
+- Write a function that blocks withdrawals to non-owner addresses.
 - Deploy on a testnet and interact with its functions.
 
 ---
