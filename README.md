@@ -56,21 +56,29 @@ This project uses **[python version 3.8.12](https://www.python.org/downloads/)**
 
 ### **These images show what happens after contract deployment and each interaction function.** 
 
-#### **Interaction 1: Send 10 ether as Wei:**
+#### **Interaction 1: Set the addresses for accountOne and accountTwo:**
 
 ![Interaction 1](.
 
-#### **Interaction 2: Withdraw 5 Ether into accountOne.** 
+#### **Interaction 2: Desposit 11 ether as Wei:**
 
 ![Interaction 2](.
 
-#### **Interaction 3: Withdraw 6 Ether into accountTwo.**
+#### **Interaction 3: Withdraw 5 Ether into accountOne.** 
 
-![Interaction 3](./
+![Interaction 3](.
 
-#### **Interaction 4: Attempt to withdraw 1 ether.**
+#### **Interaction 4: Withdraw 5 Ether into accountTwo.**
 
 ![Interaction 4](./
+
+#### **Interaction 5: View the current balance, account that was last to withdraw and the amount that was last withdrawn.**
+
+![Interaction 5](./
+
+#### **Interaction 6: Attempt to withdraw 1 Ether into an account other than the two owners.**
+
+![Interaction 6](./
 
 #### **Interaction 5: 
 
