@@ -22,7 +22,7 @@ The purpose of this project is to create a smart contract that functions as a jo
 
 ---
 
-## Technologies
+## Technologies Used
 
 This project uses **[python version 3.8.12](https://www.python.org/downloads/)** with the following packages and modules:
 
@@ -37,7 +37,7 @@ This project uses **[python version 3.8.12](https://www.python.org/downloads/)**
 * [Remix IDE](https://remix.ethereum.org/) - This is used to be able to write, compile and deploy smart contracts written in the Solidity code.
 
 ---
-## Installation/ Usage Guide
+## Installation / Usage Guide
 
 ### 1. Open [REMIX IDE](https://remix.ethereum.org/), then click on the left icon logo, and then click Open file and navigate to where the git clone files are saved locally on your computer.
 
@@ -57,30 +57,30 @@ This project uses **[python version 3.8.12](https://www.python.org/downloads/)**
 
 ### **These images show the ressults of each interaction function.** 
 
-#### **Interaction 1: Set the addresses for accountOne and accountTwo:**
+#### Set the addresses for accountOne and accountTwo:**
 
-![Interaction 1](./execution_results/set_account_owners.jpg)
+![](./execution_results/set_account_owners.jpg)
 ![](./execution_results/confirmation_account_owners.jpg)
 
-#### **Interaction 2: Desposit 11 ether as Wei:**
+#### **Desposit 11 ether as Wei:**
 
-![Interaction 2](./execution_results/deposit.jpg)
+![](./execution_results/deposit.jpg)
 
-#### **Interaction 3: Withdraw 5 Ether into accountOne.** 
+#### **Withdraw 5 Ether into accountOne.** 
 
-![Interaction 3](./execution_results/withdraw_to_account_1.jpg)
+![](./execution_results/withdraw_to_account_1.jpg)
 ![](./execution_results/confirmation_withdraw_to_account_1.jpg)
 
-#### **Interaction 4: Withdraw 5 Ether into accountTwo.**
+#### **Withdraw 5 Ether into accountTwo.**
 
-![Interaction 4](./execution_results/withdraw_to_account_2.jpg)
+![](./execution_results/withdraw_to_account_2.jpg)
 ![](./execution_results/confirmatiion_withdraw_to_account_2.jpg)
 
-#### **Interaction 5: View the current balance, account that was last to withdraw and the amount that was last withdrawn.**
+#### **View the current balance, account that was last to withdraw and the amount that was last withdrawn.**
 
-![Interaction 5](./execution_results/function_calls.jpg)
+![](./execution_results/function_calls.jpg)
 
-#### **Interaction 6: Attempt to withdraw 1 Ether into an account other than the two owners.**
+#### **Attempt to withdraw 1 Ether into an account other than the two owners.**
 
 ![Interaction 6](./execution_results/attempt_to_withdraw_to_non_owner.jpg)
 
