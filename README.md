@@ -55,7 +55,7 @@ This project uses **[python version 3.8.12](https://www.python.org/downloads/)**
 
 ### **These images show the results of each interaction function.** 
 
-#### Set the addresses for accountOne and accountTwo:**
+#### **Set the addresses for accountOne and accountTwo:**
 
 ![](./execution_results/set_account_owners.jpg)
 ![](./execution_results/confirmation_account_owners.jpg)
