@@ -7,19 +7,6 @@
 - Write a function that blocks withdrawals that were not initiated by the account owners.
 - Deploy on a testnet and interact with its functions.
 
-## Table of Contents
-
-[Project Summary](https://github.com/
-
-[Technologies](https://github.com/
-
-[Installation/ Usage Guide](https://github.com/
-
-[Examples and Images](https://github.com/
-
-[Contributors](https://github.com/
-
-[License](https://github.com/
 
 ---
 
@@ -51,12 +38,7 @@ This project uses **[python version 3.8.12](https://www.python.org/downloads/)**
 ---
 ## Installation/ Usage Guide
 
-### 1. Open [REMIX IDE](https://remix.ethereum.org/) to view and edit the `joint_savings.sol` file.
-
-
-### 2. Open the REMIX IDE, click on the left icon logo, and then click Open file and navigate to where the git clone files are locally saved on your machine.
-
-- This will open through this IDE for you to compile the smart contract.
+### 1. Open [REMIX IDE](https://remix.ethereum.org/), then click on the left icon logo, and then click Open file and navigate to where the git clone files are saved locally on your computer.
 
 ![Remix IDE Open](.
 
@@ -64,7 +46,7 @@ This project uses **[python version 3.8.12](https://www.python.org/downloads/)**
 
 ![Remix IDE Compile](.
 
-### 4. Compile the Contract in the "JavaScript VM", once this is done, then click Deploy.
+### 4. Set the Environment to "JavaScript VM", once this is done, click Deploy.
 
 ![Remix IDE Javascript](.
 
@@ -72,22 +54,21 @@ This project uses **[python version 3.8.12](https://www.python.org/downloads/)**
 ---
 ## Examples and Images
 
-### **This gif should show you what happens when each transaction is done.** 
+### **These images show what happens after contract deployment and each interaction function.** 
 
-#### **Interaction 1: Send 10 ether as wei:**
+#### **Interaction 1: Send 10 ether as Wei:**
 
 ![Interaction 1](.
 
-#### **Interaction 2: Send 10 ether as wei.**
+#### **Interaction 2: Withdraw 5 Ether into accountOne.** 
 
 ![Interaction 2](.
 
-
-#### **Interaction 3: Withdrawing 10 ether into accountOne.** 
+#### **Interaction 3: Withdraw 6 Ether into accountTwo.**
 
 ![Interaction 3](./
 
-#### **Interaction 4: Withdrawing 10 ether into accountTwo.**
+#### **Interaction 4: Attempt to withdraw 1 ether.**
 
 ![Interaction 4](./
 
