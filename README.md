@@ -24,7 +24,7 @@ The purpose of this project is to create a smart contract that functions as a jo
 
 ## Technologies Used
 
-This project uses **[python version 3.8.12](https://www.python.org/downloads/)** with the following packages and modules:
+This project uses **[python version 3.8.12](https://www.python.org/downloads/)** along with the following packages and modules:
 
 * [hashlib](https://docs.python.org/3/library/hashlib.html)- This module uses a common interface to many different secure hash and message digest algorithms. For this project, we use SHA256 to return a hexdigest.
 
