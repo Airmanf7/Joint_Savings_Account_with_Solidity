@@ -60,7 +60,7 @@ This project uses **[python version 3.8.12](https://www.python.org/downloads/)**
 #### **Interaction 1: Set the addresses for accountOne and accountTwo:**
 
 ![Interaction 1](./execution_results/set_account_owners.jpg)
-![](./execution_results/confirmation_account_owners)
+![](./execution_results/confirmation_account_owners.jpg)
 
 #### **Interaction 2: Desposit 11 ether as Wei:**
 
@@ -69,22 +69,20 @@ This project uses **[python version 3.8.12](https://www.python.org/downloads/)**
 #### **Interaction 3: Withdraw 5 Ether into accountOne.** 
 
 ![Interaction 3](./execution_results/withdraw_to_account_1.jpg)
+![](./execution_results/confirmation_withdraw_to_account_1.jpg)
 
 #### **Interaction 4: Withdraw 5 Ether into accountTwo.**
 
 ![Interaction 4](./execution_results/withdraw_to_account_2.jpg)
+![](./execution_results/confirmatiion_withdraw_to_account_2.jpg)
 
 #### **Interaction 5: View the current balance, account that was last to withdraw and the amount that was last withdrawn.**
 
-![Interaction 5](./execution_results)
+![Interaction 5](./execution_results/function_calls.jpg)
 
 #### **Interaction 6: Attempt to withdraw 1 Ether into an account other than the two owners.**
 
-![Interaction 6](./execution_results)
-
-#### **Interaction 5: 
-
-![Interaction 5](./execution_results)
+![Interaction 6](./execution_results/attempt_to_withdraw_to_non_owner.jpg)
 
 ---
 
@@ -94,7 +92,7 @@ Contributor: Andrew McCoy
 
 Email: airmanf7@gmail.com
 
-[![Linkedin]
+[![Linkedin](https://www.linkedin.com/in/andrewjmccoy/)
 
 ---
 
