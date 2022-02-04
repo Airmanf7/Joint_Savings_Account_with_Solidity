@@ -90,7 +90,7 @@ Contributor: Andrew McCoy
 
 Email: airmanf7@gmail.com
 
-[![Linkedin](https://www.linkedin.com/in/andrewjmccoy/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/andrewjmccoy)
 
 ---
 
