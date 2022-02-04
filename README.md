@@ -9,7 +9,6 @@
 - Write a function that blocks withdrawals that were not initiated by the account owners.
 - Deploy on a testnet and interact with its functions.
 
-
 ---
 
 ## Project Summary
@@ -44,47 +43,48 @@ This project uses **[python version 3.8.12](https://www.python.org/downloads/)**
 
 ![Remix IDE Open](./execution_results/open_file.jpg)
 
-### 3. Compile the `joint_savings.sol` file and make sure that the compiler is version 0.5.0.
+### 3. Compile the `joint_savings.sol` file and make sure that the compiler is set to version 0.5.0.
 
-![Remix IDE Compile](.
+![Remix IDE Compile](./execution_results/check_compiled.jpg)
 
 ### 4. Set the Environment to "JavaScript VM", once this is done, click Deploy.
 
-![Remix IDE Javascript](.
+![Remix IDE Javascript](./execution_results/environment_deploy.jpg)
 
 
 ---
 ## Examples and Images
 
-### **These images show what happens after contract deployment and each interaction function.** 
+### **These images show the ressults of each interaction function.** 
 
 #### **Interaction 1: Set the addresses for accountOne and accountTwo:**
 
-![Interaction 1](.
+![Interaction 1](./execution_results/set_account_owners.jpg)
+![](./execution_results/confirmation_account_owners)
 
 #### **Interaction 2: Desposit 11 ether as Wei:**
 
-![Interaction 2](.
+![Interaction 2](./execution_results/deposit.jpg)
 
 #### **Interaction 3: Withdraw 5 Ether into accountOne.** 
 
-![Interaction 3](.
+![Interaction 3](./execution_results/withdraw_to_account_1.jpg)
 
 #### **Interaction 4: Withdraw 5 Ether into accountTwo.**
 
-![Interaction 4](./
+![Interaction 4](./execution_results/withdraw_to_account_2.jpg)
 
 #### **Interaction 5: View the current balance, account that was last to withdraw and the amount that was last withdrawn.**
 
-![Interaction 5](./
+![Interaction 5](./execution_results)
 
 #### **Interaction 6: Attempt to withdraw 1 Ether into an account other than the two owners.**
 
-![Interaction 6](./
+![Interaction 6](./execution_results)
 
 #### **Interaction 5: 
 
-![Interaction 5](./
+![Interaction 5](./execution_results)
 
 ---
 
