@@ -60,16 +60,16 @@ This project uses **[python version 3.8.12](https://www.python.org/downloads/)**
 ![](./execution_results/set_account_owners.jpg)
 ![](./execution_results/confirmation_account_owners.jpg)
 
-#### **Desposit 11 ether as Wei:**
+#### **Desposit 11 Ether denominated in Wei:**
 
 ![](./execution_results/deposit.jpg)
 
-#### **Withdraw 5 Ether into accountOne.** 
+#### **Withdraw 5 Ether into Owner Account One.** 
 
 ![](./execution_results/withdraw_to_account_1.jpg)
 ![](./execution_results/confirmation_withdraw_to_account_1.jpg)
 
-#### **Withdraw 5 Ether into accountTwo.**
+#### **Withdraw 5 Ether into Owner Account Two.**
 
 ![](./execution_results/withdraw_to_account_2.jpg)
 ![](./execution_results/confirmation_withdraw_to_account_2.jpg)
